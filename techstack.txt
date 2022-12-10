@@ -1,0 +1,4 @@
+Web Development:
+
+- backend programming language = Python 3.10.8
+- backend framework = Django
